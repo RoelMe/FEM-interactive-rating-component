@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live on Netlify](https://63234060dd68dd62a7297faf--cerulean-yeot-fbb923.netlify.app/)
 
 ## My process
 
@@ -44,6 +44,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Vanilla JS
 - Mobile-first workflow
 
 ### What I learned
