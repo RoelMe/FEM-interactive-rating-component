@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My solution on Frontendmentor.io](https://www.frontendmentor.io/solutions/interactive-rating-component-sA7dxVwRw8)
 - Live Site URL: [Live on Netlify](https://63234060dd68dd62a7297faf--cerulean-yeot-fbb923.netlify.app/)
 
 ## My process
