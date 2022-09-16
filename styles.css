@@ -58,12 +58,23 @@ p {
     align-items: center;
     margin-bottom: 2em;
 }
+.form-control {
+    position: relative;
+}
+.form-control label {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%)
+     translateX(-50%)
+     ;
+     color: var(--light-grey);
+     cursor: pointer;
+}
 .rating__number {
+    appearance: none;
     background-color: var(--dark-blue);
-    color: var(--light-grey);
     border: none;
-    /* padding: 1.3em; */
-    text-align: center;
     cursor: pointer;
 }
 .rating__number:hover {
