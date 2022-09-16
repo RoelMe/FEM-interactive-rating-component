@@ -77,15 +77,21 @@ p {
     border: none;
     cursor: pointer;
 }
-.rating__number:hover {
+.form-control:hover .rating__number {
     background-color: var(--medium-grey);
+}
+.form-control:hover label {
     color: var(--white);
 }
 .rating__number:active,
 .rating__number:focus {
     background-color: var(--orange);
-    color: var(--white);
 }
+.rating__number:active + label,
+.rating__number:focus + label {
+    color: var(--white);
+} 
+
 button {
     width: 100%;
     border: none;
